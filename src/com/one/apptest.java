@@ -10,7 +10,7 @@ public class apptest {
 		    int first = 10;
 		    int second = 20;
 		    
-		    System.out.println(first + " " + second);
+		    System.out.println( + " " + second);
 
 		    // add two numbers
 		    int sum = first + second;
